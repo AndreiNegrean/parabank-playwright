@@ -1,0 +1,6 @@
+### Python and pytest bytecode cache directories ###
+**/__pycache__/
+**/.pycache/
+
+### Environment variable configuration files ###
+.env
